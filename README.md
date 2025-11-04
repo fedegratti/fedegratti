@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats-six-azure-61.vercel.app/api?username=fedegratti&show_icons=true&count_private=true)
-
 [![Top Langs](https://github-readme-stats-six-azure-61.vercel.app/api/top-langs/?username=fedegratti&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
