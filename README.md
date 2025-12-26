@@ -28,10 +28,10 @@
 <br >
 
 ### Github Performance
-[![GitHub Streak](https://streak-stats.demolab.com?user=fedegratti&theme=iceberg&border_radius=6)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fedegratti&theme=iceberg&border_radius=6)](https://streak-stats.demolab.com?user=fedegratti&theme=iceberg&border_radius=6)
 
 ### Github Stats
-[![My GitHub stats](https://github-readme-stats-six-azure-61.vercel.app/api?username=fedegratti&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats-six-azure-61.vercel.app/api?username=fedegratti&count_private=true&show_icons=true&theme=dark)](https://github-readme-stats-six-azure-61.vercel.app/api?username=fedegratti&count_private=true&show_icons=true&theme=dark)
 
 ### Top Langs
-[![Top Langs](https://github-readme-stats-six-azure-61.vercel.app/api/top-langs/?username=fedegratti&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-six-azure-61.vercel.app/api/top-langs/?username=fedegratti&layout=compact&theme=dark)](https://github-readme-stats-six-azure-61.vercel.app/api/top-langs/?username=fedegratti&layout=compact&theme=dark)
