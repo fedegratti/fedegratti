@@ -28,7 +28,7 @@
 <br >
 
 ### Github Performance
-[![GitHub Streak](https://streak-stats.demolab.com?user=fedegratti&theme=iceberg&border_radius=6)](https://streak-stats.demolab.com?user=fedegratti&theme=iceberg&border_radius=6)
+[![GitHub Streak](https://github-readme-streak-stats-rho-liard.vercel.app?user=fedegratti&theme=dark&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 
 ### Github Stats
 [![My GitHub stats](https://github-readme-stats-six-azure-61.vercel.app/api?username=fedegratti&count_private=true&show_icons=true&theme=dark)](https://github-readme-stats-six-azure-61.vercel.app/api?username=fedegratti&count_private=true&show_icons=true&theme=dark)
