@@ -36,3 +36,6 @@
 
 ### Top Langs
 [![Top Langs](https://github-readme-stats-six-azure-61.vercel.app/api/top-langs/?username=fedegratti&layout=compact&theme=dark)](https://github-readme-stats-six-azure-61.vercel.app/api/top-langs/?username=fedegratti&layout=compact&theme=dark)
+
+### Views
+[![Federico Gratti profile views](https://u8views.com/api/v1/github/profiles/15077532/views/day-week-month-total-count.svg)](https://u8views.com/github/fedegratti)
