@@ -19,7 +19,6 @@
 [![Ruby on Rails Badge](https://img.shields.io/badge/-Ruby_on_Rails-9B111E?style=for-the-badge&labelColor=black&logo=rubyonrails&logoColor=D30001)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 
 <details>
 <summary>
